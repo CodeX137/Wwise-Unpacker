@@ -42,3 +42,7 @@ The original script is preserved in the `legacy` folder.
 - ลบไฟล์ต้นทางเป็นตัวเลือก (ปิดไว้เป็นค่าเริ่มต้น และมีการยืนยัน)
 
 สคริปต์เดิมเก็บไว้ในโฟลเดอร์ `legacy`
+
+<img width="925" height="982" alt="image2" src="https://github.com/user-attachments/assets/fbac9f40-1c48-479d-9d53-d8e983c30416" />
+<img width="931" height="979" alt="image1" src="https://github.com/user-attachments/assets/162c9737-d8dc-44f0-978e-762fa63ed695" />
+
