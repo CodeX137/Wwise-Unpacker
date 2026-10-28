@@ -1,5 +1,28 @@
 # Wwise Unpacker 2.0
 
+Extract audio files from games that use Wwise (`.pck` / `.bnk`) and convert them to **OGG · MP3 · WAV · FLAC** using a modern graphical interface.
+
+(An upgrade to Vextil's original `.bat` script — uses the same set of tools in the `Tools` folder.)
+
+## How to Use
+
+1. Install [Python 3](https://www.python.org/downloads/) (check *Add python.exe to PATH*) — this only needs to be done once. No additional libraries required.
+2. Double-click **Start.bat** → The application will launch automatically.
+3. Click **Select Folder / Files** (or paste a path) and select your `.pck` / `.bnk` files.
+4. Choose the output format and destination folder, then click **Start Extraction**.
+
+## Improvements Over the Original
+
+- Modern dark-themed UI with Thai/English language switching, a circular progress indicator, statistics, and operation logs.
+- Select files from anywhere without copying them into the `Game Files` folder.
+- Convert multiple audio files simultaneously, with adjustable processing speed.
+- Added WAV / FLAC support and configurable MP3 bitrates.
+- Automatically organizes output into separate folders for each source file to prevent filename conflicts.
+- Supports cancellation mid-process and automatically deletes temporary files.
+- Optional source file deletion (disabled by default and protected by a confirmation prompt).
+
+The original script is preserved in the `legacy` folder.
+
 แตกไฟล์เสียงเกมที่ใช้ Wwise (`.pck` / `.bnk`) เป็น **OGG · MP3 · WAV · FLAC** ผ่านหน้าตาโปรแกรมสมัยใหม่
 (อัปเกรดจากสคริปต์ .bat ของ Vextil — ใช้เครื่องมือชุดเดิมในโฟลเดอร์ `Tools`)
 
